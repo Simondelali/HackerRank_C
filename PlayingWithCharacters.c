@@ -13,7 +13,7 @@ int main()
     printf("%c\n", ch);
     scanf("%s", s); 
     printf("%s\n", s);
-    scanf("\n"); //to avoid new line character as input to next string
+    scanf("\n"); //to avoid new line character as input to next string.
     scanf("%[^\n]%*c", s);
     printf("%s", s);
     return 0; 
