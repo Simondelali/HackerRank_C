@@ -13,6 +13,6 @@ int main()
     printf("%0.1f %0.1f",a+b, a-b);
     
     
-    
+     
     return 0;
 }
